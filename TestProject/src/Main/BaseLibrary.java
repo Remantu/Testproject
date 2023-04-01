@@ -1,4 +1,4 @@
-package Self;
+package Main;
 
 public class BaseLibrary {
 
